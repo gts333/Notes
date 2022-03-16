@@ -32,7 +32,7 @@ Check all running containers. Add -a to see all containers.
 docker ps
 docker ps -a
 ```
-![docker run commands](./imgs/dockerrun.PNG)
+![docker run commands](./dockerrun.PNG)
 
 # Docker commands on executing containers
 ```
